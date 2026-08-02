@@ -1,1 +1,4 @@
+Plaintext
+
 discord.py
+easy_pil
